@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LibraryWorks/1.0.0": {
+        "runtime": {
+          "LibraryWorks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryWorks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

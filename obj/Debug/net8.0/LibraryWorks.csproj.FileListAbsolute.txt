@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/bin/Debug/net8.0/LibraryWorks
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/bin/Debug/net8.0/LibraryWorks.deps.json
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/bin/Debug/net8.0/LibraryWorks.runtimeconfig.json
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/bin/Debug/net8.0/LibraryWorks.dll
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/bin/Debug/net8.0/LibraryWorks.pdb
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/obj/Debug/net8.0/LibraryWorks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/obj/Debug/net8.0/LibraryWorks.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/obj/Debug/net8.0/LibraryWorks.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/obj/Debug/net8.0/LibraryWorks.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/obj/Debug/net8.0/LibraryWorks.dll
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/obj/Debug/net8.0/refint/LibraryWorks.dll
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/obj/Debug/net8.0/LibraryWorks.pdb
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/obj/Debug/net8.0/LibraryWorks.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/LibraryWorks/LibraryWorks/obj/Debug/net8.0/ref/LibraryWorks.dll
